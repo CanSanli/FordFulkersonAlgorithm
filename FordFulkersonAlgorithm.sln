@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FordFulkersonAlgorithm", "FordFulkersonAlgorithm\FordFulkersonAlgorithm.csproj", "{F71D5C6F-C340-414D-B578-0F15422C43E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F71D5C6F-C340-414D-B578-0F15422C43E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71D5C6F-C340-414D-B578-0F15422C43E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71D5C6F-C340-414D-B578-0F15422C43E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71D5C6F-C340-414D-B578-0F15422C43E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D015CBF9-C26F-43CC-A948-9EE7CFB9487F}
+	EndGlobalSection
+EndGlobal
